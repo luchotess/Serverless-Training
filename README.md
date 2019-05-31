@@ -1,4 +1,4 @@
-# Entrenamiento de Serverless
+# Entrenamiento de Serverlesss
 
 En este repositorio podrás encontrar a partir del **lunes 27 de mayo a las 7 pm** todo el material referido al entrenamiento de Backend Serverless que está siendo organizado por Hack Space Perú y dirigido por Luis Suarez.
 
